@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: br.com.instamoment.InstamomentRestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.261 s <<< FAILURE! - in br.com.instamoment.InstamomentRestApplicationTests
+initializationError(br.com.instamoment.InstamomentRestApplicationTests)  Time elapsed: 0.006 s  <<< ERROR!
+java.lang.Exception: The class br.com.instamoment.InstamomentRestApplicationTests is not public.
+
+initializationError(br.com.instamoment.InstamomentRestApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Test class should have exactly one public constructor
+
